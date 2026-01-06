@@ -4,7 +4,7 @@
       "id": 1767717369593,
       "date": "2026-01-06",
       "type": "in",
-      "category": "Dana Bulanan",
+      "category": "Iuran Bulanan",
       "amount": 50000,
       "note": "kapanlah"
     },
@@ -60,7 +60,7 @@
       "id": 1,
       "date": "2023-10-25",
       "type": "in",
-      "category": "Dana Bulanan",
+      "category": "Iuran Bulanan",
       "amount": 50000,
       "note": "Budi Santoso - Oktober"
     },
@@ -92,7 +92,7 @@
       "id": 5,
       "date": "2023-10-29",
       "type": "in",
-      "category": "Dana Bulanan",
+      "category": "Iuran Bulanan",
       "amount": 50000,
       "note": "Susi Susanti - Oktober"
     },
@@ -154,45 +154,5 @@
       ]
     }
   ],
-  "categories": {
-    "in": [
-      "Dana Bulanan",
-      "Donasi",
-      "Sponsorship",
-      "Lainnya"
-    ],
-    "out": [
-      "Sewa Lapangan",
-      "Shuttlecock",
-      "Minuman",
-      "Turnamen",
-      "Lainnya"
-    ]
-  },
-  "matches": [
-    {
-      "id": 1767724161639,
-      "date": "2026-01-06",
-      "players": [
-        1,
-        2,
-        4,
-        5
-      ],
-      "winner": "A"
-    }
-  ],
-  "dashboardFilter": {
-    "type": "all",
-    "label": "Semua Waktu",
-    "value": "",
-    "endDate": ""
-  },
-  "txFilter": {
-    "type": "all",
-    "label": "Semua Waktu",
-    "value": "",
-    "endDate": ""
-  },
-  "lastUpdated": "2026-01-06T18:29:21.639Z"
+  "lastUpdated": "2026-01-06T18:29:23.461Z"
 }
