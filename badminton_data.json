@@ -107,6 +107,13 @@
   ],
   "members": [
     {
+      "id": 1767724630838,
+      "name": "Yoan",
+      "status": "Aktif",
+      "attendance": [],
+      "joinDate": "7 Jan 2026"
+    },
+    {
       "id": 1767724588669,
       "name": "Jodi",
       "status": "Aktif",
@@ -236,5 +243,5 @@
     "value": "",
     "endDate": ""
   },
-  "lastUpdated": "2026-01-06T18:36:28.669Z"
+  "lastUpdated": "2026-01-06T18:37:10.838Z"
 }
