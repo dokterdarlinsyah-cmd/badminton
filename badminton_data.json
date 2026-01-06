@@ -1,14 +1,6 @@
 {
   "transactions": [
     {
-      "id": 1767714294310,
-      "date": "2026-01-06",
-      "type": "in",
-      "category": "Pemasukan",
-      "amount": 1000000,
-      "note": "fgfg"
-    },
-    {
       "id": 1767711871919,
       "date": "2026-01-06",
       "type": "in",
@@ -165,5 +157,5 @@
       "Lainnya"
     ]
   },
-  "lastUpdated": "2026-01-06T16:04:30.650Z"
+  "lastUpdated": "2026-01-06T16:04:35.193Z"
 }
