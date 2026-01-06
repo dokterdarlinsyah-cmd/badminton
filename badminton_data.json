@@ -111,7 +111,7 @@
       "name": "Budi Santoso",
       "status": "Aktif",
       "balance": 50000,
-      "joinDate": "Jan 2023"
+      "joinDate": "Jan 2026"
     },
     {
       "id": 2,
@@ -142,5 +142,32 @@
       "joinDate": "Mei 2023"
     }
   ],
-  "lastUpdated": "2026-01-06T17:12:23.455Z"
+  "categories": {
+    "in": [
+      "Iuran Bulanan",
+      "Donasi",
+      "Sponsorship",
+      "Lainnya"
+    ],
+    "out": [
+      "Sewa Lapangan",
+      "Shuttlecock",
+      "Minuman",
+      "Turnamen",
+      "Lainnya"
+    ]
+  },
+  "dashboardFilter": {
+    "type": "all",
+    "label": "Semua Waktu",
+    "value": "",
+    "endDate": ""
+  },
+  "txFilter": {
+    "type": "all",
+    "label": "Semua Waktu",
+    "value": "",
+    "endDate": ""
+  },
+  "lastUpdated": "2026-01-06T17:13:38.318Z"
 }
