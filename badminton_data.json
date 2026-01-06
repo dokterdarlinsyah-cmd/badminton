@@ -107,6 +107,13 @@
   ],
   "members": [
     {
+      "id": 1767724573928,
+      "name": "Teh Fenn",
+      "status": "Aktif",
+      "attendance": [],
+      "joinDate": "7 Jan 2026"
+    },
+    {
       "id": 1767724555152,
       "name": "Adi Karisma",
       "status": "Aktif",
@@ -222,5 +229,5 @@
     "value": "",
     "endDate": ""
   },
-  "lastUpdated": "2026-01-06T18:35:55.152Z"
+  "lastUpdated": "2026-01-06T18:36:13.928Z"
 }
