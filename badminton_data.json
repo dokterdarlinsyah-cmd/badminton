@@ -145,33 +145,5 @@
       "joinDate": "Mei 2023"
     }
   ],
-  "categories": {
-    "in": [
-      "Iuran Bulanan",
-      "Donasi",
-      "Sponsorship",
-      "Lainnya"
-    ],
-    "out": [
-      "Sewa Lapangan",
-      "Shuttlecock",
-      "Minuman",
-      "Turnamen",
-      "Lainnya"
-    ]
-  },
-  "matches": [],
-  "dashboardFilter": {
-    "type": "all",
-    "label": "Semua Waktu",
-    "value": "",
-    "endDate": ""
-  },
-  "txFilter": {
-    "type": "all",
-    "label": "Semua Waktu",
-    "value": "",
-    "endDate": ""
-  },
-  "lastUpdated": "2026-01-06T17:57:05.916Z"
+  "lastUpdated": "2026-01-06T17:57:23.462Z"
 }
