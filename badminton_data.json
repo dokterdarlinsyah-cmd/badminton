@@ -177,16 +177,6 @@
       "joinDate": "7 Jan 2026"
     },
     {
-      "id": 4,
-      "name": "Rudi Hartono",
-      "status": "Aktif",
-      "balance": 150000,
-      "joinDate": "Apr 2023",
-      "attendance": [
-        "2026-01-06"
-      ]
-    },
-    {
       "id": 5,
       "name": "Susi Susanti",
       "status": "Aktif",
@@ -237,5 +227,5 @@
     "value": "",
     "endDate": ""
   },
-  "lastUpdated": "2026-01-06T18:38:12.008Z"
+  "lastUpdated": "2026-01-06T18:38:17.078Z"
 }
