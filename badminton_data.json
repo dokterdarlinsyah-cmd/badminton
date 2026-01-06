@@ -154,5 +154,45 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-06T18:29:23.461Z"
+  "categories": {
+    "in": [
+      "Iuran Bulanan",
+      "Donasi",
+      "Sponsorship",
+      "Lainnya"
+    ],
+    "out": [
+      "Sewa Lapangan",
+      "Shuttlecock",
+      "Minuman",
+      "Turnamen",
+      "Lainnya"
+    ]
+  },
+  "matches": [
+    {
+      "id": 1767724454658,
+      "date": "2026-01-06",
+      "players": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "winner": "A"
+    }
+  ],
+  "dashboardFilter": {
+    "type": "all",
+    "label": "Semua Waktu",
+    "value": "",
+    "endDate": ""
+  },
+  "txFilter": {
+    "type": "all",
+    "label": "Semua Waktu",
+    "value": "",
+    "endDate": ""
+  },
+  "lastUpdated": "2026-01-06T18:34:14.659Z"
 }
