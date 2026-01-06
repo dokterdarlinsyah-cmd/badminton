@@ -177,16 +177,6 @@
       "joinDate": "7 Jan 2026"
     },
     {
-      "id": 1,
-      "name": "Budi Santoso",
-      "status": "Aktif",
-      "balance": 50000,
-      "joinDate": "6 Jan 2026",
-      "attendance": [
-        "2026-01-06"
-      ]
-    },
-    {
       "id": 2,
       "name": "Siti Aminah",
       "status": "Aktif",
@@ -264,5 +254,5 @@
     "value": "",
     "endDate": ""
   },
-  "lastUpdated": "2026-01-06T18:37:47.395Z"
+  "lastUpdated": "2026-01-06T18:38:00.511Z"
 }
