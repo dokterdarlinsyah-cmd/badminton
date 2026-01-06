@@ -31,6 +31,22 @@
       "category": "Donasi",
       "amount": 200000,
       "note": "Donasi Pak Ketua"
+    },
+    {
+      "id": 5,
+      "date": "2023-10-29",
+      "type": "in",
+      "category": "Iuran Bulanan",
+      "amount": 50000,
+      "note": "Susi Susanti - Oktober"
+    },
+    {
+      "id": 6,
+      "date": "2023-10-30",
+      "type": "out",
+      "category": "Minuman",
+      "amount": 45000,
+      "note": "Air Mineral 1 Dus"
     }
   ],
   "members": [
@@ -38,20 +54,37 @@
       "id": 1,
       "name": "Budi Santoso",
       "status": "Aktif",
-      "balance": 50000
+      "balance": 50000,
+      "joinDate": "Jan 2023"
     },
     {
       "id": 2,
       "name": "Siti Aminah",
       "status": "Aktif",
-      "balance": 0
+      "balance": 0,
+      "joinDate": "Feb 2023"
     },
     {
       "id": 3,
       "name": "Andi Wijaya",
       "status": "Nonaktif",
-      "balance": -25000
+      "balance": -25000,
+      "joinDate": "Mar 2023"
+    },
+    {
+      "id": 4,
+      "name": "Rudi Hartono",
+      "status": "Aktif",
+      "balance": 150000,
+      "joinDate": "Apr 2023"
+    },
+    {
+      "id": 5,
+      "name": "Susi Susanti",
+      "status": "Aktif",
+      "balance": 25000,
+      "joinDate": "Mei 2023"
     }
   ],
-  "lastUpdated": "2026-01-06T13:54:49.455Z"
+  "lastUpdated": "2026-01-06T14:12:51.173Z"
 }
