@@ -177,13 +177,6 @@
       "joinDate": "7 Jan 2026"
     },
     {
-      "id": 3,
-      "name": "Andi Wijaya",
-      "status": "Nonaktif",
-      "balance": -25000,
-      "joinDate": "Mar 2023"
-    },
-    {
       "id": 4,
       "name": "Rudi Hartono",
       "status": "Aktif",
@@ -244,5 +237,5 @@
     "value": "",
     "endDate": ""
   },
-  "lastUpdated": "2026-01-06T18:38:07.594Z"
+  "lastUpdated": "2026-01-06T18:38:12.008Z"
 }
