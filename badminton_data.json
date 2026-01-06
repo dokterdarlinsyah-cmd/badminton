@@ -147,8 +147,8 @@
       "Iuran Bulanan",
       "Donasi",
       "Sponsorship",
-      "Lainnya",
-      "Dana Bulanan"
+      "Dana Bulanan",
+      "Lainnya"
     ],
     "out": [
       "Sewa Lapangan",
@@ -170,5 +170,5 @@
     "value": "",
     "endDate": ""
   },
-  "lastUpdated": "2026-01-06T16:53:27.811Z"
+  "lastUpdated": "2026-01-06T16:57:13.712Z"
 }
