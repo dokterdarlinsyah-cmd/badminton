@@ -1,6 +1,14 @@
 {
   "transactions": [
     {
+      "id": 1767717369593,
+      "date": "2026-01-06",
+      "type": "in",
+      "category": "Iuran Bulanan",
+      "amount": 50000,
+      "note": "kapanlah"
+    },
+    {
       "id": 1767711871919,
       "date": "2026-01-06",
       "type": "in",
@@ -134,5 +142,20 @@
       "joinDate": "Mei 2023"
     }
   ],
-  "lastUpdated": "2026-01-06T16:35:23.155Z"
+  "categories": {
+    "in": [
+      "Iuran Bulanan",
+      "Donasi",
+      "Sponsorship",
+      "Lainnya"
+    ],
+    "out": [
+      "Sewa Lapangan",
+      "Shuttlecock",
+      "Minuman",
+      "Turnamen",
+      "Lainnya"
+    ]
+  },
+  "lastUpdated": "2026-01-06T16:36:09.594Z"
 }
