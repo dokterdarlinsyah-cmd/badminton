@@ -1,6 +1,14 @@
 {
   "transactions": [
     {
+      "id": 1767711200739,
+      "date": "2026-01-06",
+      "type": "out",
+      "category": "Pengeluaran",
+      "amount": 1000008,
+      "note": "klklk"
+    },
+    {
       "id": 1767711146096,
       "date": "2026-01-06",
       "type": "out",
@@ -110,5 +118,5 @@
       "joinDate": "Mei 2023"
     }
   ],
-  "lastUpdated": "2026-01-06T14:52:26.096Z"
+  "lastUpdated": "2026-01-06T14:53:20.739Z"
 }
