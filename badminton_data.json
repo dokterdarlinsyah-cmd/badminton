@@ -199,19 +199,7 @@
       "Lainnya"
     ]
   },
-  "matches": [
-    {
-      "id": 1767724454658,
-      "date": "2026-01-06",
-      "players": [
-        1,
-        2,
-        4,
-        5
-      ],
-      "winner": "A"
-    }
-  ],
+  "matches": [],
   "dashboardFilter": {
     "type": "all",
     "label": "Semua Waktu",
@@ -224,5 +212,5 @@
     "value": "",
     "endDate": ""
   },
-  "lastUpdated": "2026-01-06T18:38:39.508Z"
+  "lastUpdated": "2026-01-06T18:44:26.797Z"
 }
