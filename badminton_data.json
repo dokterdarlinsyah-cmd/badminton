@@ -164,9 +164,9 @@
     "endDate": ""
   },
   "txFilter": {
-    "type": "all",
-    "label": "Semua Waktu",
-    "value": "",
+    "type": "specific_month",
+    "label": "Januari 2026",
+    "value": "2026-01",
     "endDate": ""
   }
 }
