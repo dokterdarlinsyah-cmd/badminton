@@ -158,10 +158,10 @@
     ]
   },
   "dashboardFilter": {
-    "type": "range",
-    "label": "2026-01-01 s/d 2026-01-31",
-    "value": "2026-01-01",
-    "endDate": "2026-01-31"
+    "type": "all",
+    "label": "Semua Waktu",
+    "value": "",
+    "endDate": ""
   },
   "txFilter": {
     "type": "specific_month",
