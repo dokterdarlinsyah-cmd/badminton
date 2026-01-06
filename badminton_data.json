@@ -107,6 +107,13 @@
   ],
   "members": [
     {
+      "id": 1767724588669,
+      "name": "Jodi",
+      "status": "Aktif",
+      "attendance": [],
+      "joinDate": "7 Jan 2026"
+    },
+    {
       "id": 1767724573928,
       "name": "Teh Fenn",
       "status": "Aktif",
@@ -229,5 +236,5 @@
     "value": "",
     "endDate": ""
   },
-  "lastUpdated": "2026-01-06T18:36:13.928Z"
+  "lastUpdated": "2026-01-06T18:36:28.669Z"
 }
