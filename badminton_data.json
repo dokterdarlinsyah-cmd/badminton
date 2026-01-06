@@ -1,0 +1,57 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "date": "2023-10-25",
+      "type": "in",
+      "category": "Iuran Bulanan",
+      "amount": 50000,
+      "note": "Budi Santoso - Oktober"
+    },
+    {
+      "id": 2,
+      "date": "2023-10-26",
+      "type": "out",
+      "category": "Shuttlecock",
+      "amount": 120000,
+      "note": "Beli 1 Slop Yonex"
+    },
+    {
+      "id": 3,
+      "date": "2023-10-27",
+      "type": "out",
+      "category": "Sewa Lapangan",
+      "amount": 80000,
+      "note": "Sewa 2 jam"
+    },
+    {
+      "id": 4,
+      "date": "2023-10-28",
+      "type": "in",
+      "category": "Donasi",
+      "amount": 200000,
+      "note": "Donasi Pak Ketua"
+    }
+  ],
+  "members": [
+    {
+      "id": 1,
+      "name": "Budi Santoso",
+      "status": "Aktif",
+      "balance": 50000
+    },
+    {
+      "id": 2,
+      "name": "Siti Aminah",
+      "status": "Aktif",
+      "balance": 0
+    },
+    {
+      "id": 3,
+      "name": "Andi Wijaya",
+      "status": "Nonaktif",
+      "balance": -25000
+    }
+  ],
+  "lastUpdated": "2026-01-06T13:53:41.677Z"
+}
