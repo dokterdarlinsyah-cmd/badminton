@@ -107,6 +107,13 @@
   ],
   "members": [
     {
+      "id": 1767719341931,
+      "name": "donal",
+      "status": "Aktif",
+      "balance": 0,
+      "joinDate": "Jan 2026"
+    },
+    {
       "id": 1,
       "name": "Budi Santoso",
       "status": "Nonaktif",
@@ -169,5 +176,5 @@
     "value": "",
     "endDate": ""
   },
-  "lastUpdated": "2026-01-06T17:08:38.576Z"
+  "lastUpdated": "2026-01-06T17:09:01.931Z"
 }
