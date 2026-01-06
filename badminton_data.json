@@ -109,7 +109,7 @@
     {
       "id": 1,
       "name": "Budi Santoso",
-      "status": "Aktif",
+      "status": "Nonaktif",
       "balance": 50000,
       "joinDate": "Jan 2023"
     },
@@ -169,5 +169,5 @@
     "value": "",
     "endDate": ""
   },
-  "lastUpdated": "2026-01-06T17:08:00.004Z"
+  "lastUpdated": "2026-01-06T17:08:38.576Z"
 }
