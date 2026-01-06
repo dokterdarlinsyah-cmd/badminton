@@ -107,6 +107,13 @@
   ],
   "members": [
     {
+      "id": 1767724543009,
+      "name": "Rohmat",
+      "status": "Aktif",
+      "attendance": [],
+      "joinDate": "7 Jan 2026"
+    },
+    {
       "id": 1767724532149,
       "name": "Tatang",
       "status": "Aktif",
@@ -208,5 +215,5 @@
     "value": "",
     "endDate": ""
   },
-  "lastUpdated": "2026-01-06T18:35:32.149Z"
+  "lastUpdated": "2026-01-06T18:35:43.009Z"
 }
