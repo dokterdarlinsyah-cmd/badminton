@@ -107,6 +107,13 @@
   ],
   "members": [
     {
+      "id": 1767724667395,
+      "name": "Mail B",
+      "status": "Aktif",
+      "attendance": [],
+      "joinDate": "7 Jan 2026"
+    },
+    {
       "id": 1767724659304,
       "name": "Apri",
       "status": "Aktif",
@@ -257,5 +264,5 @@
     "value": "",
     "endDate": ""
   },
-  "lastUpdated": "2026-01-06T18:37:39.304Z"
+  "lastUpdated": "2026-01-06T18:37:47.395Z"
 }
