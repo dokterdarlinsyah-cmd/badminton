@@ -177,16 +177,6 @@
       "joinDate": "7 Jan 2026"
     },
     {
-      "id": 2,
-      "name": "Siti Aminah",
-      "status": "Aktif",
-      "balance": 0,
-      "joinDate": "Feb 2023",
-      "attendance": [
-        "2026-01-06"
-      ]
-    },
-    {
       "id": 3,
       "name": "Andi Wijaya",
       "status": "Nonaktif",
@@ -254,5 +244,5 @@
     "value": "",
     "endDate": ""
   },
-  "lastUpdated": "2026-01-06T18:38:00.511Z"
+  "lastUpdated": "2026-01-06T18:38:07.594Z"
 }
