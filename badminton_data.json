@@ -175,16 +175,6 @@
       "status": "Aktif",
       "attendance": [],
       "joinDate": "7 Jan 2026"
-    },
-    {
-      "id": 5,
-      "name": "Susi Susanti",
-      "status": "Aktif",
-      "balance": 25000,
-      "joinDate": "Mei 2023",
-      "attendance": [
-        "2026-01-06"
-      ]
     }
   ],
   "categories": {
@@ -227,5 +217,5 @@
     "value": "",
     "endDate": ""
   },
-  "lastUpdated": "2026-01-06T18:38:17.078Z"
+  "lastUpdated": "2026-01-06T18:38:22.449Z"
 }
