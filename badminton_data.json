@@ -107,6 +107,13 @@
   ],
   "members": [
     {
+      "id": 1767724532149,
+      "name": "Tatang",
+      "status": "Aktif",
+      "attendance": [],
+      "joinDate": "7 Jan 2026"
+    },
+    {
       "id": 1767724495857,
       "name": "M. Chandra",
       "status": "Aktif",
@@ -201,5 +208,5 @@
     "value": "",
     "endDate": ""
   },
-  "lastUpdated": "2026-01-06T18:34:55.857Z"
+  "lastUpdated": "2026-01-06T18:35:32.149Z"
 }
