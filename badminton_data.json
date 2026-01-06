@@ -17,14 +17,6 @@
       "note": "kita"
     },
     {
-      "id": 1767711403796,
-      "date": "2026-01-06",
-      "type": "out",
-      "category": "Pengeluaran",
-      "amount": 88888888,
-      "note": "jjjjjjj"
-    },
-    {
       "id": 1767711378447,
       "date": "2026-01-06",
       "type": "in",
@@ -157,5 +149,5 @@
       "Lainnya"
     ]
   },
-  "lastUpdated": "2026-01-06T16:04:35.193Z"
+  "lastUpdated": "2026-01-06T16:04:38.250Z"
 }
