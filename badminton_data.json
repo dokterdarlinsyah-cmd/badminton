@@ -1,6 +1,15 @@
 {
   "transactions": [
     {
+      "id": 1767771067689,
+      "date": "2026-01-07",
+      "time": "14:30",
+      "type": "in",
+      "category": "Iuran Bulanan",
+      "amount": 56000,
+      "note": "qq"
+    },
+    {
       "id": 1767769644902,
       "date": "2026-01-07",
       "time": "14:07",
@@ -302,10 +311,10 @@
     "endDate": ""
   },
   "txFilter": {
-    "type": "all",
-    "label": "Semua Waktu",
+    "type": "specific_year",
     "value": "",
-    "endDate": ""
+    "endDate": "",
+    "label": ""
   },
-  "lastUpdated": "2026-01-07T07:32:03.198Z"
+  "lastUpdated": "2026-01-07T07:32:23.454Z"
 }
