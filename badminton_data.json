@@ -1,15 +1,6 @@
 {
   "transactions": [
     {
-      "id": 1767755712213,
-      "date": "2026-01-07",
-      "time": "10:15",
-      "type": "in",
-      "category": "Donasi",
-      "amount": 7000000,
-      "note": "klklk"
-    },
-    {
       "id": 1767717369593,
       "date": "2026-01-06",
       "type": "in",
@@ -299,5 +290,5 @@
     "endDate": "",
     "label": "Semua Waktu"
   },
-  "lastUpdated": "2026-01-07T07:55:56.887Z"
+  "lastUpdated": "2026-01-07T07:55:59.754Z"
 }
