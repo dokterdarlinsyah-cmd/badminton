@@ -184,7 +184,8 @@
       "Sponsorship",
       "Lainnya",
       "OKE",
-      "lanjut"
+      "lanjut",
+      "Dana"
     ],
     "out": [
       "Sewa Lapangan",
@@ -241,5 +242,5 @@
     "endDate": "",
     "label": "Semua Waktu"
   },
-  "lastUpdated": "2026-01-07T07:58:03.112Z"
+  "lastUpdated": "2026-01-07T07:58:11.426Z"
 }
