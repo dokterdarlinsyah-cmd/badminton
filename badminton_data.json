@@ -1,14 +1,6 @@
 {
   "transactions": [
     {
-      "id": 4,
-      "date": "2023-10-28",
-      "type": "in",
-      "category": "Donasi",
-      "amount": 200000,
-      "note": "Donasi Pak Ketua"
-    },
-    {
       "id": 5,
       "date": "2023-10-29",
       "type": "in",
@@ -223,5 +215,5 @@
     "endDate": "",
     "label": "Semua Waktu"
   },
-  "lastUpdated": "2026-01-07T10:07:08.608Z"
+  "lastUpdated": "2026-01-07T10:07:10.037Z"
 }
