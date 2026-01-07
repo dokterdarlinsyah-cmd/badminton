@@ -107,13 +107,6 @@
   ],
   "members": [
     {
-      "id": 1767752528003,
-      "name": "ACK (Adi Chandra K)",
-      "status": "Aktif",
-      "attendance": [],
-      "joinDate": "7 Jan 2026"
-    },
-    {
       "id": 1767752488960,
       "name": "Aris",
       "status": "Aktif",
@@ -246,5 +239,5 @@
     "value": "",
     "endDate": ""
   },
-  "lastUpdated": "2026-01-07T02:22:08.003Z"
+  "lastUpdated": "2026-01-07T02:23:03.198Z"
 }
