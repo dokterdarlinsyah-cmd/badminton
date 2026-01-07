@@ -1,5 +1,15 @@
 {
-  "transactions": [],
+  "transactions": [
+    {
+      "id": 1767780679318,
+      "date": "2026-01-06",
+      "time": "16:00",
+      "type": "in",
+      "category": "Dana BKK",
+      "amount": 2000000,
+      "note": "Januari & Maret"
+    }
+  ],
   "members": [
     {
       "id": 1767770019742,
@@ -153,5 +163,5 @@
     "endDate": "",
     "label": "Semua Waktu"
   },
-  "lastUpdated": "2026-01-07T10:10:23.456Z"
+  "lastUpdated": "2026-01-07T10:11:19.318Z"
 }
