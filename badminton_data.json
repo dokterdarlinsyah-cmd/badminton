@@ -1,14 +1,6 @@
 {
   "transactions": [
     {
-      "id": 1767711871919,
-      "date": "2026-01-06",
-      "type": "in",
-      "category": "Pemasukan",
-      "amount": 70000000,
-      "note": "kalian"
-    },
-    {
       "id": 1767711843754,
       "date": "2026-01-06",
       "type": "in",
@@ -282,5 +274,5 @@
     "endDate": "",
     "label": "Semua Waktu"
   },
-  "lastUpdated": "2026-01-07T07:56:02.183Z"
+  "lastUpdated": "2026-01-07T07:56:05.634Z"
 }
