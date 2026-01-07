@@ -1,14 +1,6 @@
 {
   "transactions": [
     {
-      "id": 5,
-      "date": "2023-10-29",
-      "type": "in",
-      "category": "Dana Bulanan",
-      "amount": 50000,
-      "note": "Susi Susanti - Oktober"
-    },
-    {
       "id": 6,
       "date": "2023-10-30",
       "type": "out",
@@ -215,5 +207,5 @@
     "endDate": "",
     "label": "Semua Waktu"
   },
-  "lastUpdated": "2026-01-07T10:07:10.037Z"
+  "lastUpdated": "2026-01-07T10:07:11.279Z"
 }
