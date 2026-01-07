@@ -1,71 +1,5 @@
 {
-  "transactions": [
-    {
-      "id": 1767772718004,
-      "date": "2026-01-07",
-      "time": "14:58",
-      "type": "in",
-      "category": "Dana",
-      "amount": 50000,
-      "note": "g"
-    },
-    {
-      "id": 1767709565777,
-      "date": "2026-01-06",
-      "type": "in",
-      "category": "Pemasukan",
-      "amount": 1000000,
-      "note": "oke"
-    },
-    {
-      "id": 1,
-      "date": "2023-10-25",
-      "type": "in",
-      "category": "Dana Bulanan",
-      "amount": 50000,
-      "note": "Budi Santoso - Oktober"
-    },
-    {
-      "id": 2,
-      "date": "2023-10-26",
-      "type": "out",
-      "category": "Shuttlecock",
-      "amount": 120000,
-      "note": "Beli 1 Slop Yonex"
-    },
-    {
-      "id": 3,
-      "date": "2023-10-27",
-      "type": "out",
-      "category": "Sewa Lapangan",
-      "amount": 80000,
-      "note": "Sewa 2 jam"
-    },
-    {
-      "id": 4,
-      "date": "2023-10-28",
-      "type": "in",
-      "category": "Donasi",
-      "amount": 200000,
-      "note": "Donasi Pak Ketua"
-    },
-    {
-      "id": 5,
-      "date": "2023-10-29",
-      "type": "in",
-      "category": "Dana Bulanan",
-      "amount": 50000,
-      "note": "Susi Susanti - Oktober"
-    },
-    {
-      "id": 6,
-      "date": "2023-10-30",
-      "type": "out",
-      "category": "Minuman",
-      "amount": 45000,
-      "note": "Air Mineral 1 Dus"
-    }
-  ],
+  "transactions": [],
   "members": [
     {
       "id": 1767770019742,
@@ -208,17 +142,6 @@
   },
   "matches": [
     {
-      "id": 1767774536625,
-      "date": "2026-01-07",
-      "players": [
-        1767724555152,
-        1767724573928,
-        1767724543009,
-        1767724495857
-      ],
-      "winner": "B"
-    },
-    {
       "id": 1767757143752,
       "date": "2026-01-07",
       "players": [
@@ -264,5 +187,5 @@
     "endDate": "",
     "label": "Semua Waktu"
   },
-  "lastUpdated": "2026-01-07T10:07:23.461Z"
+  "lastUpdated": "2026-01-07T10:07:33.087Z"
 }
