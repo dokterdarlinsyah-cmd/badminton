@@ -1,4 +1,5 @@
 {
+  "transactions": [],
   "members": [
     {
       "id": 1767770019742,
@@ -122,6 +123,23 @@
       "joinDate": "7 Jan 2026"
     }
   ],
+  "categories": {
+    "in": [
+      "Donasi",
+      "Sponsorship",
+      "Lainnya",
+      "OKE",
+      "Dana BKK",
+      "Dana 2025"
+    ],
+    "out": [
+      "Sewa Lapangan",
+      "Shuttlecock",
+      "Minuman",
+      "Turnamen",
+      "Lainnya"
+    ]
+  },
   "matches": [],
   "dashboardFilter": {
     "type": "specific_year",
@@ -135,5 +153,5 @@
     "endDate": "",
     "label": "Semua Waktu"
   },
-  "lastUpdated": "2026-01-07T10:08:37.475Z"
+  "lastUpdated": "2026-01-07T10:08:42.743Z"
 }
