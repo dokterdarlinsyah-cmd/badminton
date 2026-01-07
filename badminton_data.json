@@ -1,6 +1,15 @@
 {
   "transactions": [
     {
+      "id": 1767781244777,
+      "date": "2026-01-07",
+      "time": "17:19",
+      "type": "out",
+      "category": "Sewa Lapangan",
+      "amount": 35000,
+      "note": "Azka 1 (Tambah Lapangan 2)"
+    },
+    {
       "id": 1767780846878,
       "date": "2026-01-07",
       "time": "17:13",
@@ -204,5 +213,5 @@
     "endDate": "",
     "label": "Semua Waktu"
   },
-  "lastUpdated": "2026-01-07T10:19:23.463Z"
+  "lastUpdated": "2026-01-07T10:20:44.778Z"
 }
