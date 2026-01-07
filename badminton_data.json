@@ -337,9 +337,9 @@
     }
   ],
   "dashboardFilter": {
-    "type": "specific_month",
-    "label": "Februari 2026",
-    "value": "2026-02",
+    "type": "specific_year",
+    "label": "Tahun 2026",
+    "value": "2026",
     "endDate": ""
   },
   "txFilter": {
