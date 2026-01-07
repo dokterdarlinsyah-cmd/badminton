@@ -143,6 +143,7 @@
       "name": "Mail B",
       "status": "Aktif",
       "attendance": [
+        "2026-01-07",
         "2026-01-06"
       ],
       "joinDate": "7 Jan 2026"
@@ -152,6 +153,7 @@
       "name": "Apri",
       "status": "Aktif",
       "attendance": [
+        "2026-01-07",
         "2026-01-06"
       ],
       "joinDate": "7 Jan 2026"
@@ -197,7 +199,9 @@
       "id": 1767724543009,
       "name": "Rohmat",
       "status": "Aktif",
-      "attendance": [],
+      "attendance": [
+        "2026-01-07"
+      ],
       "joinDate": "7 Jan 2026"
     },
     {
@@ -211,7 +215,9 @@
       "id": 1767724495857,
       "name": "M. Chandra",
       "status": "Aktif",
-      "attendance": [],
+      "attendance": [
+        "2026-01-07"
+      ],
       "joinDate": "7 Jan 2026"
     }
   ],
@@ -231,6 +237,17 @@
     ]
   },
   "matches": [
+    {
+      "id": 1767755764016,
+      "date": "2026-01-07",
+      "players": [
+        1767724667395,
+        1767724659304,
+        1767724543009,
+        1767724495857
+      ],
+      "winner": ""
+    },
     {
       "id": 1767725402638,
       "date": "2026-01-06",
@@ -255,5 +272,5 @@
     "value": "",
     "endDate": ""
   },
-  "lastUpdated": "2026-01-07T03:15:12.214Z"
+  "lastUpdated": "2026-01-07T03:16:04.016Z"
 }
