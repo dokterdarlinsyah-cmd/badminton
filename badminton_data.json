@@ -107,6 +107,13 @@
   ],
   "members": [
     {
+      "id": 1767752488960,
+      "name": "Aris",
+      "status": "Aktif",
+      "attendance": [],
+      "joinDate": "7 Jan 2026"
+    },
+    {
       "id": 1767724719508,
       "name": "Kang Tris",
       "status": "Aktif",
@@ -232,5 +239,5 @@
     "value": "",
     "endDate": ""
   },
-  "lastUpdated": "2026-01-07T02:20:23.459Z"
+  "lastUpdated": "2026-01-07T02:21:28.960Z"
 }
