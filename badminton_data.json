@@ -1,6 +1,15 @@
 {
   "transactions": [
     {
+      "id": 1767771096445,
+      "date": "2026-01-07",
+      "time": "14:31",
+      "type": "in",
+      "category": "Iuran Bulanan",
+      "amount": 8,
+      "note": "kl"
+    },
+    {
       "id": 1767771067689,
       "date": "2026-01-07",
       "time": "14:30",
@@ -316,5 +325,5 @@
     "endDate": "",
     "label": ""
   },
-  "lastUpdated": "2026-01-07T07:31:07.689Z"
+  "lastUpdated": "2026-01-07T07:31:36.445Z"
 }
