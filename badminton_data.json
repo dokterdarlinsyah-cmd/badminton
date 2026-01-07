@@ -107,6 +107,13 @@
   ],
   "members": [
     {
+      "id": 1767754976776,
+      "name": "ack",
+      "status": "Aktif",
+      "attendance": [],
+      "joinDate": "7 Jan 2026"
+    },
+    {
       "id": 1767752488960,
       "name": "Aris",
       "status": "Aktif",
@@ -239,5 +246,5 @@
     "value": "",
     "endDate": ""
   },
-  "lastUpdated": "2026-01-07T03:02:03.211Z"
+  "lastUpdated": "2026-01-07T03:02:56.776Z"
 }
