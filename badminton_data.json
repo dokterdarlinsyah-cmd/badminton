@@ -1,4 +1,119 @@
 {
+  "transactions": [
+    {
+      "id": 1767755712213,
+      "date": "2026-01-07",
+      "time": "10:15",
+      "type": "in",
+      "category": "Donasi",
+      "amount": 7000000,
+      "note": "klklk"
+    },
+    {
+      "id": 1767717369593,
+      "date": "2026-01-06",
+      "type": "in",
+      "category": "Iuran Bulanan",
+      "amount": 50000,
+      "note": "kapanlah"
+    },
+    {
+      "id": 1767711871919,
+      "date": "2026-01-06",
+      "type": "in",
+      "category": "Pemasukan",
+      "amount": 70000000,
+      "note": "kalian"
+    },
+    {
+      "id": 1767711843754,
+      "date": "2026-01-06",
+      "type": "in",
+      "category": "Pemasukan",
+      "amount": 10000000,
+      "note": "kita"
+    },
+    {
+      "id": 1767711378447,
+      "date": "2026-01-06",
+      "type": "in",
+      "category": "Pemasukan",
+      "amount": 4000000,
+      "note": "llllllllll"
+    },
+    {
+      "id": 1767711322373,
+      "date": "2026-01-06",
+      "type": "in",
+      "category": "Pemasukan",
+      "amount": 2000000,
+      "note": "aaa"
+    },
+    {
+      "id": 1767710359312,
+      "date": "2026-01-06",
+      "type": "in",
+      "category": "Pemasukan",
+      "amount": 88888,
+      "note": "nananan"
+    },
+    {
+      "id": 1767709565777,
+      "date": "2026-01-06",
+      "type": "in",
+      "category": "Pemasukan",
+      "amount": 1000000,
+      "note": "oke"
+    },
+    {
+      "id": 1,
+      "date": "2023-10-25",
+      "type": "in",
+      "category": "Iuran Bulanan",
+      "amount": 50000,
+      "note": "Budi Santoso - Oktober"
+    },
+    {
+      "id": 2,
+      "date": "2023-10-26",
+      "type": "out",
+      "category": "Shuttlecock",
+      "amount": 120000,
+      "note": "Beli 1 Slop Yonex"
+    },
+    {
+      "id": 3,
+      "date": "2023-10-27",
+      "type": "out",
+      "category": "Sewa Lapangan",
+      "amount": 80000,
+      "note": "Sewa 2 jam"
+    },
+    {
+      "id": 4,
+      "date": "2023-10-28",
+      "type": "in",
+      "category": "Donasi",
+      "amount": 200000,
+      "note": "Donasi Pak Ketua"
+    },
+    {
+      "id": 5,
+      "date": "2023-10-29",
+      "type": "in",
+      "category": "Iuran Bulanan",
+      "amount": 50000,
+      "note": "Susi Susanti - Oktober"
+    },
+    {
+      "id": 6,
+      "date": "2023-10-30",
+      "type": "out",
+      "category": "Minuman",
+      "amount": 45000,
+      "note": "Air Mineral 1 Dus"
+    }
+  ],
   "members": [
     {
       "id": 1767755613899,
@@ -113,6 +228,21 @@
       "joinDate": "7 Jan 2026"
     }
   ],
+  "categories": {
+    "in": [
+      "Iuran Bulanan",
+      "Donasi",
+      "Sponsorship",
+      "Lainnya"
+    ],
+    "out": [
+      "Sewa Lapangan",
+      "Shuttlecock",
+      "Minuman",
+      "Turnamen",
+      "Lainnya"
+    ]
+  },
   "matches": [
     {
       "id": 1767757143752,
@@ -160,5 +290,5 @@
     "value": "",
     "endDate": ""
   },
-  "lastUpdated": "2026-01-07T03:41:38.681Z"
+  "lastUpdated": "2026-01-07T03:42:23.459Z"
 }
