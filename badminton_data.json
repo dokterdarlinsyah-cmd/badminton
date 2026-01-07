@@ -1,14 +1,5 @@
 {
-  "transactions": [
-    {
-      "id": 6,
-      "date": "2023-10-30",
-      "type": "out",
-      "category": "Minuman",
-      "amount": 45000,
-      "note": "Air Mineral 1 Dus"
-    }
-  ],
+  "transactions": [],
   "members": [
     {
       "id": 1767770019742,
@@ -207,5 +198,5 @@
     "endDate": "",
     "label": "Semua Waktu"
   },
-  "lastUpdated": "2026-01-07T10:07:11.279Z"
+  "lastUpdated": "2026-01-07T10:07:12.546Z"
 }
