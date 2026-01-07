@@ -49,14 +49,18 @@
       "id": 1767786917771,
       "name": "Azril",
       "status": "Aktif",
-      "attendance": [],
+      "attendance": [
+        "2026-01-07"
+      ],
       "joinDate": "7 Jan 2026"
     },
     {
       "id": 1767786504149,
       "name": "Heris",
       "status": "Aktif",
-      "attendance": [],
+      "attendance": [
+        "2026-01-07"
+      ],
       "joinDate": "7 Jan 2026"
     },
     {
@@ -220,6 +224,17 @@
   },
   "matches": [
     {
+      "id": 1767787008431,
+      "date": "2026-01-07",
+      "players": [
+        1767786917771,
+        1767724719508,
+        1767786504149,
+        1767782901728
+      ],
+      "winner": ""
+    },
+    {
       "id": 1767786264856,
       "date": "2026-01-07",
       "players": [
@@ -298,5 +313,5 @@
     "endDate": "",
     "label": "Semua Waktu"
   },
-  "lastUpdated": "2026-01-07T11:55:43.213Z"
+  "lastUpdated": "2026-01-07T11:56:48.432Z"
 }
