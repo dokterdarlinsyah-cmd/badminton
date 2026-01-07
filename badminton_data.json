@@ -39,6 +39,13 @@
   ],
   "members": [
     {
+      "id": 1767786621587,
+      "name": "Heris",
+      "status": "Aktif",
+      "attendance": [],
+      "joinDate": "7 Jan 2026"
+    },
+    {
       "id": 1767786120911,
       "name": "Ansori",
       "status": "Aktif",
@@ -277,5 +284,5 @@
     "endDate": "",
     "label": "Semua Waktu"
   },
-  "lastUpdated": "2026-01-07T11:49:23.464Z"
+  "lastUpdated": "2026-01-07T11:50:21.588Z"
 }
