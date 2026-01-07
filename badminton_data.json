@@ -42,7 +42,9 @@
       "id": 1767786923740,
       "name": "Bagas",
       "status": "Aktif",
-      "attendance": [],
+      "attendance": [
+        "2026-01-07"
+      ],
       "joinDate": "7 Jan 2026"
     },
     {
@@ -211,7 +213,6 @@
       "Donasi",
       "Sponsorship",
       "Lainnya",
-      "OKE",
       "Dana 2025"
     ],
     "out": [
@@ -230,7 +231,7 @@
         1767786917771,
         1767724719508,
         1767786504149,
-        1767782901728
+        1767786923740
       ],
       "winner": ""
     },
@@ -313,5 +314,5 @@
     "endDate": "",
     "label": "Semua Waktu"
   },
-  "lastUpdated": "2026-01-07T12:08:23.466Z"
+  "lastUpdated": "2026-01-07T12:08:54.733Z"
 }
