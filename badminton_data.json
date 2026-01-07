@@ -279,9 +279,9 @@
     }
   ],
   "dashboardFilter": {
-    "type": "all",
-    "label": "Semua Waktu",
-    "value": "",
+    "type": "specific_year",
+    "label": "Tahun 2024",
+    "value": "2024",
     "endDate": ""
   },
   "txFilter": {
@@ -289,6 +289,5 @@
     "label": "Semua Waktu",
     "value": "",
     "endDate": ""
-  },
-  "lastUpdated": "2026-01-07T03:39:03.752Z"
+  }
 }
