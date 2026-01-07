@@ -39,6 +39,20 @@
   ],
   "members": [
     {
+      "id": 1767790168161,
+      "name": "Nohan",
+      "status": "Aktif",
+      "attendance": [],
+      "joinDate": "7 Jan 2026"
+    },
+    {
+      "id": 1767790161533,
+      "name": "Syarief",
+      "status": "Aktif",
+      "attendance": [],
+      "joinDate": "7 Jan 2026"
+    },
+    {
       "id": 1767789898096,
       "name": "Yayan",
       "status": "Aktif",
@@ -334,5 +348,5 @@
     "endDate": "",
     "label": "Semua Waktu"
   },
-  "lastUpdated": "2026-01-07T12:49:23.459Z"
+  "lastUpdated": "2026-01-07T12:49:31.048Z"
 }
