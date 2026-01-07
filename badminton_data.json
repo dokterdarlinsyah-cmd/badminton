@@ -320,10 +320,9 @@
     "endDate": ""
   },
   "txFilter": {
-    "type": "specific_year",
+    "type": "all",
     "value": "",
     "endDate": "",
-    "label": ""
-  },
-  "lastUpdated": "2026-01-07T07:41:23.468Z"
+    "label": "Semua Waktu"
+  }
 }
