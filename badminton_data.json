@@ -39,6 +39,13 @@
   ],
   "members": [
     {
+      "id": 1768057248369,
+      "name": "Jhoni",
+      "status": "Aktif",
+      "attendance": [],
+      "joinDate": "7 Jan 2026"
+    },
+    {
       "id": 1768057216770,
       "name": "hadur",
       "status": "Aktif",
@@ -355,5 +362,5 @@
     "endDate": "",
     "label": "Semua Waktu"
   },
-  "lastUpdated": "2026-01-10T15:00:16.771Z"
+  "lastUpdated": "2026-01-10T15:00:48.369Z"
 }
